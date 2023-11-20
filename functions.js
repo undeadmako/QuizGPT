@@ -19,7 +19,7 @@ const askGPT = async (question = "", options = [], ind = 0) => {
     };
 
     const API_KEY = null;
-
+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
     const response = await fetch("https://chatgpt-proxy-zeta.vercel.app/", {
       method: "POST",
       headers: {
